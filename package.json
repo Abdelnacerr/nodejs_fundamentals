@@ -4,7 +4,7 @@
 	"description": "test project",
 	"main": "app.js",
 	"scripts": {
-		"dev": "nodemon server.js"
+		"dev": "nodemon router-controller.js"
 	},
 	"author": "Mohamed Abdinasir",
 	"license": "MIT",
